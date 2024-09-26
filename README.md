@@ -34,7 +34,7 @@ git clone https://github.com/BhoomiGohil/Scrimba-JavaScriptCourseBookList.git
 2. **Navigate to the project directory:**
 
 ```bash
-cd javascript-scrimba-learn-javascript-build-a-mobile-app-book-list
+cd Scrimba-JavaScriptCourseBookList
 ```
 
 3. **Open the `index.html` file in your web browser.**
