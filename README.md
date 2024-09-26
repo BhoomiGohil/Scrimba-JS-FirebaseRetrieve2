@@ -26,9 +26,11 @@ Below is a visual representation of the website page:
 ### Installation
 
 1. Clone this repository to your local machine using:
-   ```bash
-   git clone https://github.com/BhoomiGohil/javascript-scrimba-learn-javascript-build-a-mobile-app-book-list.git
-   ```
+
+```bash
+git clone https://github.com/BhoomiGohil/Scrimba-JavaScriptCourseBookList.git
+```
+
 2. **Navigate to the project directory:**
 
 ```bash
